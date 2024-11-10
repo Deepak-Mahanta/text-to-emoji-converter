@@ -8,4 +8,10 @@
 ### 💡Step 4- Then type the password 🔑 which was previously given by you.
 ### 💡Then click on Decrypt Text (present at below). Now you can see your beautiful message 😎.
 
-Live link:- https://deepak-mahanta.github.io/text-to-emoji-converter/ ( **If you're on mobile open it on a desktop site.** )
+[Live link](https://deepak-mahanta.github.io/text-to-emoji-converter/)   ( **If you're on mobile open it on a desktop site.** )
+---
+
+ ## 📧 Contact
+
+If you have any questions or would like to reach out, please feel free to contact me directly through the contact form on my website or at [LinkedIn](https://www.linkedin.com/in/contactdeepk/).
+
