@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:gilroy;
+    /* font-family:gilroy; */
     color: #fff;
 }
 html,
@@ -194,4 +194,61 @@ button img{
     width: 45%;
     display: none;
     margin-top: 40px;
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+    #main {
+        padding: 50px;
+    }
+    #main > h1 {
+        font-size: 36px;
+        text-align: center;
+    }
+    #main > h1 span img {
+        height: 30px;
+    }
+    #main #endec-div {
+        width: 70%;
+        margin: 30px 0;
+        padding: 10px 10px;
+    }
+    #endec-div h3 {
+        font-size: 16px;
+    }
+    #encryption, #decryption, #result {
+        width: 80%;
+    }
+    #encryption textarea, #decryption textarea,
+    #encryption input, #decryption input {
+        margin-bottom: 40px;
+    }
+}
+
+
+@media (max-width: 600px) {
+    #main {
+        padding: 20px;
+    }
+    #main > h1 {
+        font-size: 24px;
+        text-align: center;
+    }
+    #main > h1 span img {
+        height: 20px;
+    }
+    #main #endec-div {
+        width: 90%;
+        margin: 20px 0;
+        padding: 8px 8px;
+    }
+    #endec-div h3 {
+        font-size: 14px;
+    }
+    #encryption, #decryption, #result {
+        width: 100%;
+    }
+    #encryption textarea, #decryption textarea,
+    #encryption input, #decryption input {
+        margin-bottom: 30px;
+    }
 }
